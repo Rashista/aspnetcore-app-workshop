@@ -1,0 +1,9 @@
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfoInputs.cache
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfo.cs
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csproj.CoreCompileInputs.cache
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.deps.json
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.dll
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.pdb
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.dll
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.pdb
+E:\C#\Conference App\ConferencePlanner\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csprojAssemblyReference.cache
