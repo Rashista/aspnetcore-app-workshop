@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fhr31cQNtVb06yyNBmqJRNpid3z102DZV5kVrSAKNAXi6nw5uGmQ4InUlwKE5G2Xhp11IUtTwiiyR2IKsqsxgQ==",
+  "dgSpecHash": "mHfH9D5An7G2R3fSsOpJtmT+1KmF2vdJbJTzadJTtYjs/YKgmxaquNQCuqcv9q8o5n8XqnXDUfZuLiErMXQ0HA==",
   "success": true,
-  "projectFilePath": "E:\\C#\\Conference App\\ConferencePlanner\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

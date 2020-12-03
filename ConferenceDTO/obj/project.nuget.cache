@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aiLQjsfcsc+JwSZJ/5Ipd5UvPsiGoglecK6X7MEhpaqVyHnV58hn5sF1tppKF+VQRJaW0vF1U2ipyVcc9Lf5bA==",
+  "dgSpecHash": "XixrjkmblLi6LnMou+OFVqT50ETtlH/mCFh1437sipAd/0iuGwnMBAYor49yyMA1Itc/ID4YnNXoQqMiGLawuQ==",
   "success": true,
-  "projectFilePath": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj",
+  "projectFilePath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

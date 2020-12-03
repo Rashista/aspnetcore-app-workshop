@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj": {}
+    "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj": {
+    "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj",
+        "projectUniqueName": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj",
         "projectName": "ConferenceDTO",
-        "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj",
+        "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj",
         "packagesPath": "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\obj\\",
+        "outputPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yordan Rashkov\\AppData\\Roaming\\NuGet\\NuGet.Config",

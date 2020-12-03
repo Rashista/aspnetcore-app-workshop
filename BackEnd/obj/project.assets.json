@@ -9020,11 +9020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Conference App\\ConferencePlanner\\BackEnd\\BackEnd.csproj",
+      "projectUniqueName": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\BackEnd\\BackEnd.csproj",
       "projectName": "BackEnd",
-      "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\BackEnd\\BackEnd.csproj",
+      "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\BackEnd\\BackEnd.csproj",
       "packagesPath": "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Conference App\\ConferencePlanner\\BackEnd\\obj\\",
+      "outputPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yordan Rashkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9041,8 +9041,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj": {
-              "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj"
+            "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj": {
+              "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj"
             }
           }
         }

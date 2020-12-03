@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Conference App\\ConferencePlanner\\FrontEnd\\FrontEnd.csproj": {}
+    "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\FrontEnd\\FrontEnd.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj": {
+    "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj",
+        "projectUniqueName": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj",
         "projectName": "ConferenceDTO",
-        "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj",
+        "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj",
         "packagesPath": "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\obj\\",
+        "outputPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yordan Rashkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "E:\\C#\\Conference App\\ConferencePlanner\\FrontEnd\\FrontEnd.csproj": {
+    "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\FrontEnd\\FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Conference App\\ConferencePlanner\\FrontEnd\\FrontEnd.csproj",
+        "projectUniqueName": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\FrontEnd\\FrontEnd.csproj",
         "projectName": "FrontEnd",
-        "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\FrontEnd\\FrontEnd.csproj",
+        "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\FrontEnd\\FrontEnd.csproj",
         "packagesPath": "C:\\Users\\Yordan Rashkov\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Conference App\\ConferencePlanner\\FrontEnd\\obj\\",
+        "outputPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yordan Rashkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj": {
-                "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj"
+              "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj": {
+                "projectPath": "E:\\C#\\Conference App\\ConferencePlanner\\aspnetcore-app-workshop\\ConferenceDTO\\ConferenceDTO.csproj"
               }
             }
           }
