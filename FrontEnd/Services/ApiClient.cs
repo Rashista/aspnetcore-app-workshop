@@ -87,7 +87,7 @@ namespace FrontEnd.Services
 
         public async Task<SpeakerResponse> GetSpeakerAsync(int id)
         {
-            var response = await _httpClient.GetAsync($"/api.speakers/{id}");
+            var response = await _httpClient.GetAsync($"/api/speakers/{id}");
 
             if (response.StatusCode == HttpStatusCode.NotFound)
             {

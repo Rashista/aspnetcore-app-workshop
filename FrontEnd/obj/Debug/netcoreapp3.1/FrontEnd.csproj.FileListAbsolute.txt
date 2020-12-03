@@ -40,3 +40,5 @@ E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debu
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.dll
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.pdb
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.genruntimeconfig.cache
+E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Session.cshtml.g.cs
+E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Speaker.cshtml.g.cs
