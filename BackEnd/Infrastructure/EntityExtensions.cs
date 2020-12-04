@@ -45,7 +45,7 @@ namespace BackEnd.Infrastructure
                       Track = new ConferenceDTO.Track
                       {
                           Id = session?.TrackId ?? 0,
-                          Name = session.Track.Name
+                          Name = session.Track?.Name
                       },
                       Abstract = session.Abstract
                   };

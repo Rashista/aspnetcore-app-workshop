@@ -6,6 +6,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace FrontEnd.Pages
@@ -27,8 +28,17 @@ namespace FrontEnd.Pages
 
         public int CurrentDayOffset { get; set; }
 
-        public async Task OnGet(int day = 0)
+        public bool IsAdmin { get; set; }
+
+        [TempData]
+        public string Message { get; set; }
+
+        public bool ShowMessage => !string.IsNullOrEmpty(Message);
+
+        public async Task OnGetAsync(int day = 0)
         {
+            IsAdmin = User.IsAdmin();
+
             CurrentDayOffset = day;
 
             var sessions = await _apiClient.GetSessionsAsync();
