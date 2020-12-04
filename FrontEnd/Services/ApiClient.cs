@@ -17,6 +17,20 @@ namespace FrontEnd.Services
             _httpClient = httpClient;
         }
 
+        public async Task<List<SearchResult>> SearchAsync(string query)
+        {
+            var term = new SearchTerm
+            {
+                Query = query
+            };
+
+            var response = await _httpClient.PostAsJsonAsync($"api/search", term);
+
+            response.EnsureSuccessStatusCode();
+
+            return await response.Content.ReadAsAsync<List<SearchResult>>();
+        }
+
         public async Task<bool> AddAttendeeAsync(Attendee attendee)
         {
             var response = await _httpClient.PostAsJsonAsync($"/api/attendees", attendee);
