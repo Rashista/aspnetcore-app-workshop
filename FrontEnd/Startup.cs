@@ -30,6 +30,8 @@ namespace FrontEnd
             {
                 client.BaseAddress = new Uri(Configuration["serviceUrl"]);
             });
+
+            services.AddSingleton<IAdminService, AdminService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,6 +53,7 @@ namespace FrontEnd
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
