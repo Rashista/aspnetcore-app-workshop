@@ -13,7 +13,7 @@ namespace BackEnd.Infrastructure
             {
                 Id = attendee.Id,
                 FirstName = attendee.FirstName,
-                Lastname = attendee.Lastname,
+                LastName = attendee.LastName,
                 EmailAddress = attendee.EmailAddress,
                 UserName = attendee.UserName,
                 Sessions = attendee.SessionAttendees?

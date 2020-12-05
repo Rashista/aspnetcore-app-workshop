@@ -99,7 +99,7 @@ namespace BackEnd.Controllers
             var attendee = new Data.Attendee
             {
                 FirstName = input.FirstName,
-                Lastname = input.Lastname,
+                LastName = input.LastName,
                 EmailAddress = input.EmailAddress,
                 UserName = input.UserName
             };

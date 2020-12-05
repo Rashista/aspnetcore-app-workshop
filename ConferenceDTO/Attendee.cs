@@ -15,7 +15,7 @@ namespace ConferenceDTO
 
         [Required]
         [StringLength(200)]
-        public virtual string Lastname { get; set; }
+        public virtual string LastName { get; set; }
 
         [Required]
         [StringLength(200)]

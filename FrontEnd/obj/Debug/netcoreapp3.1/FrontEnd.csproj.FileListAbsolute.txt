@@ -173,3 +173,4 @@ E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debu
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\EditSession.cshtml.g.cs
+E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Welcome.cshtml.g.cs
