@@ -174,3 +174,6 @@ E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debu
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\EditSession.cshtml.g.cs
 E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Welcome.cshtml.g.cs
+E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\MyAgenda.cshtml.g.cs
+E:\C#\Conference App\ConferencePlanner\aspnetcore-app-workshop\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_AgendaPartial.cshtml.g.cs
